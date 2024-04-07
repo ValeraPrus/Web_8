@@ -3,7 +3,7 @@ from mongoengine import connect, Document, StringField, ReferenceField, ListFiel
 
 connect(
     db="WebHW",
-    host="mongodb+srv://walker:sobaka94@cluster0.tvae42i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    host="mongodb+srv://walker:********@cluster0.tvae42i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 )
 
 
